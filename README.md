@@ -13,11 +13,13 @@ Tool Used for Data Analysis: MS Excel
 
 Source of Data: https://www.redfin.com/news/data-center/ 
 
-Contributors: Mahak Saxena - https://github.com/mahak-saxena
+Contributors: 
+
+Mahak Saxena - https://github.com/mahak-saxena
               
-              Mahima Vaidya - https://github.com/mahimavaidya
+Mahima Vaidya - https://github.com/mahimavaidya
               
-              Disha Kapoor -  https://github.com/Disha-Kapoor
+Disha Kapoor -  https://github.com/Disha-Kapoor
               
-              Rutvij Joshi - https://github.com/rujos5
+Rutvij Joshi - https://github.com/rujos5
 
