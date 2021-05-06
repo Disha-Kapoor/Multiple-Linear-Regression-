@@ -10,5 +10,6 @@ project. Using this model can be beneficial for potential buyers and sellers in 
 especially during this pandemic. 
 
 Tool Used for Data Analysis: MS Excel
+
 Source of Data: https://www.redfin.com/news/data-center/ 
 
